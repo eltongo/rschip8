@@ -1,0 +1,11 @@
+[package]
+name = "rschip8"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+rand = "0.8.5"
+sdl2 = "0.32.1"
+strum = "0.24.0"
+strum_macros = "0.24.0"
+derivative = "2.2.0"
